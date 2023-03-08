@@ -5,3 +5,4 @@ The fourth script displays contents in a long format
 The fifth script displays directory contents including hidden files
 The sixth  script displays directory contents in long format, with user and group IDs displayed numerically, and hidden files
 The seventh script creates a directory in another directory
+The eighth script moves a file from one directory to another
