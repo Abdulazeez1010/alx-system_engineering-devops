@@ -11,3 +11,4 @@ The tenth script deletes a directory in a directory
 The eleventh script changes the working directory to the previous one
 The twelfth script list all files in the current directory, parent directory, and the boot directory in long format
 The thirteenth script prints the type of a file in a directory
+The fourteenth script creates a named symbolic link in the current working directory to another directory
