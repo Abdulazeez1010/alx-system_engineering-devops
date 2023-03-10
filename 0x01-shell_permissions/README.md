@@ -13,3 +13,4 @@ The twelfth script adds execute permission to all subdirectories of the current 
 The thirteenth script creats a directory with the given permission
 The fourteenth script changes the group owner of the file hello to school
 The fifteenth script changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+The sixteenth script changes the owner and the group owner of _hello to vincent and staff respectively
