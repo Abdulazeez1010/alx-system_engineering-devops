@@ -10,3 +10,4 @@ The ninth script gives the owner and group no permission at all and all permissi
 The tenth script sets the mode of the file to the given mode
 The eleventh script sets the mode of the file hello to the same as olleh's
 The twelfth script adds execute permission to all subdirectories of the current directory for the owner, group owner and all others, and regular files are not changed
+The thirteenth script creats a directory with the given permission
