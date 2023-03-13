@@ -5,3 +5,4 @@ The fourth script displays the contents of the /etc/passwd and the /etc/hosts` f
 The fifth script displays the last 10 line of the /etc/passwd file
 The sixth script displays the first 10 line of the /etc/passwd file
 The seventh script displays the third line of the file
+The eighth script creates the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
