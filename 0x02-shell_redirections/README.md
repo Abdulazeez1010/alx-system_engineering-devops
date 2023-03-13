@@ -9,3 +9,4 @@ The eighth script creates the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 The ninth script writes the result of the command ls -la into the file ls_cwd_content
 The tenth script duplicates the last line of the file iacta
 The eleventh script deletes all files in the current directory and subdirectories
+The twelfth script counts the number of directories and subdirectories in the current directory
