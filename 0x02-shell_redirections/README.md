@@ -16,3 +16,4 @@ The fifteenth script displays lines containing the pattern "root" in /etc/passwd
 The sixteenth script displays the number of lines that contains the given pattern
 The seventeenth script diplays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
 The eighteenth script diplays all lines that do not contain the specified pattern in the file
+The ninteenth script displays lines that start with a letter includingg capital letter
