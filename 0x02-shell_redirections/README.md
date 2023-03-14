@@ -19,4 +19,5 @@ The eighteenth script diplays all lines that do not contain the specified patter
 The ninteenth script displays lines that start with a letter includingg capital letter
 The twentieth script replaces A and c with Z and e respectively
 The twenty-first script removes all letters c and C
-The twenty-second script reverses its input 
+The twenty-second script reverses its input
+The twenty-third script displays all users and their home directories, sorted by users. 
