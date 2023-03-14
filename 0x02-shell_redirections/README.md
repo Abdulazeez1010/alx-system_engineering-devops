@@ -20,4 +20,5 @@ The ninteenth script displays lines that start with a letter includingg capital 
 The twentieth script replaces A and c with Z and e respectively
 The twenty-first script removes all letters c and C
 The twenty-second script reverses its input
-The twenty-third script displays all users and their home directories, sorted by users. 
+The twenty-third script displays all users and their home directories, sorted by users
+The twenty-fourth script finds all empty files and directories in the current directory and all sub-directories 
