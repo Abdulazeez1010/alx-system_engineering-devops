@@ -1,2 +1,2 @@
 #!/bin/bash
-tail | sort
+tail -1 | sort
