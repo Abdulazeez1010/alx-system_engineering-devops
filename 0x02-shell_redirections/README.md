@@ -18,3 +18,4 @@ The seventeenth script diplays lines containing the pattern "root" and 3 lines a
 The eighteenth script diplays all lines that do not contain the specified pattern in the file
 The ninteenth script displays lines that start with a letter includingg capital letter
 The twentieth script replaces A and c with Z and e respectively
+The twenty-first script removes all letters c and C
