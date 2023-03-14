@@ -8,4 +8,5 @@ The seventh script crates a new local variable with the name BEST and value Scho
 The eighth script creats a new global variable with the name BEST and value School
 The ninth script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
 The tenth script prints the result of POWER divided by DIVIDE, followed by a new line
-The eleventh scipt displays the result of BREATH to the power LOVE
+The eleventh script displays the result of BREATH to the power LOVE
+The twelfth script converts a number from base 2 to base 10
