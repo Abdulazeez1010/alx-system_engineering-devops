@@ -4,3 +4,4 @@ The third script adds /action to the PATH. /action is the last directory the she
 The fourth script counts the number of directories in the PATH
 The fifth script lists the environment variables
 The sixth script lists all local variables and environment variables, and functions
+The seventh script a new local variable with the name BEST and value School
