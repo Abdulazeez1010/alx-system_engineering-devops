@@ -11,3 +11,4 @@ The tenth script duplicates the last line of the file iacta
 The eleventh script deletes all files in the current directory and subdirectories
 The twelfth script counts the number of directories and subdirectories in the current directory
 The thirteenth script displays the 10 newest files in the current directory from newest to oldest
+The fourteenth script prints only words that appear exactly once
