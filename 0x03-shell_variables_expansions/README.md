@@ -6,3 +6,5 @@ The fifth script lists the environment variables
 The sixth script lists all local variables and environment variables, and functions
 The seventh script crates a new local variable with the name BEST and value School
 The eighth script creats a new global variable with the name BEST and value School
+The ninth script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
+The tenth script prints the result of POWER divided by DIVIDE, followed by a new line
