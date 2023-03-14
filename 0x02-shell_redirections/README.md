@@ -13,3 +13,4 @@ The twelfth script counts the number of directories and subdirectories in the cu
 The thirteenth script displays the 10 newest files in the current directory from newest to oldest
 The fourteenth script prints only words that appear exactly once
 The fifteenth script displays lines containing the pattern "root" in /etc/passwd
+The sixteenth script displays the number of lines that contains the given pattern
