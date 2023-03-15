@@ -1,2 +1,2 @@
 #!/bin/bash
-result="" \n while read -r line \n do \n result="${result}${line:0:1}" \n done \n echo "$result"
+head -n 10 | echo ${line:0:1} 
