@@ -22,4 +22,5 @@ The twenty-first script removes all letters c and C
 The twenty-second script reverses its input
 The twenty-third script displays all users and their home directories, sorted by users
 The twenty-fourth script finds all empty files and directories in the current directory and all sub-directories
-The twenty-fifth script lists all the files with a .gif extension in the current directory and all its sub-directories 
+The twenty-fifth script lists all the files with a .gif extension in the current directory and all its sub-directories
+The twenty-sixth script decodes acrostics that use the first letter of each line 
