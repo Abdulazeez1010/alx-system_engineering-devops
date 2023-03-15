@@ -1,2 +1,7 @@
 #!/bin/bash
-while read line; do echo "${line:0:1}"; done
+result=""
+while read -r line
+do
+    result="${result}${line:0:1}"
+done
+echo "$result"
