@@ -1,2 +1,2 @@
 #!/bin/bash
-printf"%x\n" $($((water#$WATER)) + $((stir#$STIR)))
+echo $((WATER + STIR)) | printf "%d\n" $(cat) | xargs printf "%x\n"
