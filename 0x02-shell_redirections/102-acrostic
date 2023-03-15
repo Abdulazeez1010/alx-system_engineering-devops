@@ -1,2 +1,2 @@
-#!/bin/bash
-cut -c 1-1
+#!/bin/sh
+echo ${line:0:1}
