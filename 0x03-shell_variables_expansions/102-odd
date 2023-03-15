@@ -1,2 +1,2 @@
 #!/bin/bash
-for ((i=1;i<101;++i)); do echo $i 
+head -n 999999999 | tail -n +1
