@@ -1,2 +1,2 @@
 #!/bin/bash
-find  -type f -namwe "*.gif" -size n[c] -printf "%f\n"
+find ./ -type f -name "*.gif" -size n[c] -printf "%f\n"
